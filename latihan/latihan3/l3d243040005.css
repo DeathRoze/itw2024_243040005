@@ -30,8 +30,13 @@ h4 {
 }
 
 .a2:hover {
+<<<<<<< HEAD
     color: rgb(246, 0, 0);
     background-color: rgb(75, 57, 57);
+=======
+    color: white;
+    background-color: blue;
+>>>>>>> 91a719426cced848c3f72f84f11f1536a49611f8
 }
 
 .pertama {
