@@ -5,8 +5,8 @@
     
     body {
         font: 16px/28px arial, sans-serif;
-        background-color: #fefeff;
-        color: #000000;
+        background-color: #eaeaea;
+        color: #333;
     }
     .container {
         width: 800px;
@@ -20,15 +20,13 @@
     .header .judul {
         font-size: 40px;
         font-weight: bold;
-        color: #77a8ed;
-        text-align: center;
+        color: #4a54c2;
         
     }
     .header ul li {
         display: inline-block;
         margin-top: 20px;
         margin-right: 10px;
-        
 
     }
     .header a {
@@ -41,7 +39,7 @@
         color: white;
     }
     .hero {
-        height: 350px;
+        height: 360px;
         background-image:url(Trunks.jpg) ;
         background-size: cover;
         background-position: 0 ;
@@ -69,23 +67,22 @@
         font-size: 14px;
     }
     .content .Trunks {
-        height: 350px;
-        width: 600px;
+        height: 360px;
         background-image: url(Trunks2.webp);
     }
-
+   
     .footer {
         background-color: #333;
     }
     
     .footer .copy {
-        color: #ea1313;
+        color: #eaeaea;
         text-align: center;
         font-size: 13px;
         padding: 10px;
     }
 
-    
+  
     .content .sumber {
         font-size: 10px;
         font-weight: bold;
@@ -115,7 +112,6 @@
     .content #diet {
         font-size: 25px;
         font-weight: bold;
-        font-family: ;
         color: #2a50ca;
     }
 
