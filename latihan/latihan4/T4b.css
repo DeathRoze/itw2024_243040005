@@ -1,0 +1,136 @@
+* {
+    padding: 0;
+    margin: 0;
+    }
+    
+    body {
+        font: 16px/28px arial, sans-serif;
+        background-color: #fefeff;
+        color: #000000;
+    }
+    .container {
+        width: 800px;
+        margin: auto;
+        background-color: #fefefe;
+    }
+    .header {
+        padding: 20px;
+        padding-bottom: 10px;
+    }
+    .header .judul {
+        font-size: 40px;
+        font-weight: bold;
+        color: #77a8ed;
+        text-align: center;
+        
+    }
+    .header ul li {
+        display: inline-block;
+        margin-top: 20px;
+        margin-right: 10px;
+        
+
+    }
+    .header a {
+        text-decoration: none;
+        color: rgb(20, 81, 212);
+        padding: 3px;
+    }
+    .header a:hover {
+        background-color: lightskyblue;
+        color: white;
+    }
+    .hero {
+        height: 350px;
+        background-image:url(Trunks.jpg) ;
+        background-size: cover;
+        background-position: 0 ;
+        border-bottom: 5px solid rgb(14, 10, 240);
+        border-top: 5px solid rgb(17, 117, 230);
+    }
+    .content {
+        padding: 20px;
+    }
+    .content h2 {
+        font-size: 28px;
+        font-weight: bold;
+    }
+    .content .penulis {
+        font-size: 11px;
+        margin-top: 5px;
+    
+    }
+    .content .penulis a {
+        color: rgb(9, 0, 243);
+        text-decoration: none;
+    }
+    .content p {
+        margin-bottom: 20px;
+        font-size: 14px;
+    }
+    .content .Trunks {
+        height: 350px;
+        width: 600px;
+        background-image: url(Trunks2.webp);
+    }
+
+    .footer {
+        background-color: #333;
+    }
+    
+    .footer .copy {
+        color: #ea1313;
+        text-align: center;
+        font-size: 13px;
+        padding: 10px;
+    }
+
+    
+    .content .sumber {
+        font-size: 10px;
+        font-weight: bold;
+    }
+    
+    .content .sumber .cerita {
+        color: gray;
+        font-style: italic;
+        font-weight: 100;
+    }
+    
+    .content .sumber .cerita:hover {
+        background-color: blue;
+        color: white;
+    }
+
+    .content #stat0 {
+        font-size: 24px;
+        font-weight: bolder; 
+        
+    }
+
+    .content #stat1 {
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .content #diet {
+        font-size: 25px;
+        font-weight: bold;
+        font-family: ;
+        color: #2a50ca;
+    }
+
+    .content .otot {
+        font-size: 25px;
+        font-weight: bold;
+        color: #2a50ca;
+    }
+
+    .content .lima {
+        font-weight: bold;
+    }
+    .content .kesimpulan {
+        font-size: 25px;
+        font-weight: bold;
+        color: #0d0d0e;
+
+    }
